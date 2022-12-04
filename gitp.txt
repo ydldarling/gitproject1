@@ -2,6 +2,5 @@ gitproject  addadd
 gitproject  hot-fix
 gitproject  
 gitproject
-master1
-hot-fix
+master1 hot-fix
 
